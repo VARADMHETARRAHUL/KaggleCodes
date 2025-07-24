@@ -78,7 +78,7 @@ Welcome to my beginner-level machine learning project where I predicted house pr
 
 👨‍💻 Varad – Computer Science Student  
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/)  
-🔗 View the live notebook on [Kaggle](https://www.kaggle.com/) *(link to your Kaggle notebook)*
+
 
 ---
 
